@@ -1,4 +1,4 @@
-# SUJITH J
+### SUJITH J
 
 ### About Me
 
@@ -11,13 +11,15 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| Healthcare Documentation with AI-Powered HealthScribe | A project that generate clinical notes from doctor-patient conversations, with a focus on patient details. extracts relevant information such as medical history, symptoms, and treatment plans discussed during consultations. By employing natural language processing techniques, key patient details are accurately identified and highlighted, facilitating comprehensive and precise clinical documentation. This innovative approach streamlines the note-taking process, enhancing efficiency and accuracy in medical record-keeping, while allowing healthcare providers to dedicate more time to patient care.                                             |           | https://github.com/sujithjayaprakash/healthscribe   
-| A Bookstore Website | The responsive Bookstore website developed presents a seamless integration of HTML, CSS, JavaScript, and React.js, delivering an intuitive and engaging user experience. Employing fundamental React.js concepts, the site incorporates dynamic components and interactive features. Through responsive design principles, it ensures optimal functionality across diverse devices and screen sizes, catering to a broad user base. This project underscores proficiency in front-end technologies and a dedication to crafting user-centric web experiences.                                             | https://onlinebookstore-website-sujithjp.netlify.app/  |         |
+| Healthcare Documentation with AI-Powered HealthScribe | A project that generate clinical notes from doctor-patient conversations, with a focus on patient details. extracts relevant information such as medical history, symptoms, and treatment plans discussed during consultations. By employing natural language processing techniques, key patient details are accurately identified and highlighted, facilitating comprehensive and precise clinical documentation. This innovative approach streamlines the note-taking process, enhancing efficiency and accuracy in medical record-keeping, while allowing healthcare providers to dedicate more time to patient care.                                             |           | [Repository Link](https://github.com/sujithjayaprakash/healthscribe)   
+| A Bookstore Website | The responsive Bookstore website developed presents a seamless integration of HTML, CSS, JavaScript, and React.js, delivering an intuitive and engaging user experience. Employing fundamental React.js concepts, the site incorporates dynamic components and interactive features. Through responsive design principles, it ensures optimal functionality across diverse devices and screen sizes, catering to a broad user base. This project underscores proficiency in front-end technologies and a dedication to crafting user-centric web experiences.                                             | [Hosted Link](https://onlinebookstore-website-sujithjp.netlify.app/)  |         | [Repository Link](https://github.com/sujithjayaprakash/book-store-website-project)  
 
 
 #### Networking:
 
-- Follow me on : https://www.linkedin.com/in/sujith-jayaprakash-291453288/
+- My networking skills have been honed through active participation in communities such as Mulean, Medium and Discord. I am also actively engaged on LinkedIn, where I stay updated with current trends in technology and connect with industry professionals.
+
+- Follow me on : [LinkedIn](https://www.linkedin.com/in/sujith-jayaprakash-291453288/)
 
 #### Career Plan:
 
@@ -33,17 +35,17 @@
 
 #### History of Community Engagement:
 
--  I am engaged in many communities through discord servers. The activities through this communities include carrier development, tech activities and leadership development.
+-  I am engaged in many communities through discord servers. The activities through this communities include carrier development, tech activities and leadership development. I have actively Participated in many IEEE events and coordinated as a volunteer.
 
 #### Highly Visible Technical Content:
 
-- https://medium.com/@sujith.j_3574/healthcare-documentation-with-ai-powered-health-scribe-be3d5fb71466
+- [Medium Article](https://medium.com/@sujith.j_3574/healthcare-documentation-with-ai-powered-health-scribe-be3d5fb71466)
 
 #### Highly Used Software Tools:
 
-- Microsoft Office Suite (Word, Excel, PowerPoint), Vistual Studio Code, Github, Chrome Developer Tools.
+- Microsoft Office Suite (Word, Excel, PowerPoint), Visual Studio Code, GitHub, Chrome Developer Tools.
 
 #### Competitive Website Profiles:
 
-- Hackerrank : https://www.hackerrank.com/profile/sujithjayapraka1
-- Leetcode : https://leetcode.com/_sujit_jyprks_/
+- [Hackerrank Profile](https://www.hackerrank.com/profile/sujithjayapraka1)
+- [LeetCode Profile](https://leetcode.com/_sujit_jyprks_/)
